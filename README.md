@@ -1,5 +1,5 @@
 <div id="title" align="center">
-    <img src="./assets/favicon-logo.jpg" width="300">
+    <img src="../assets/favicon-logo.jpg" width="300">
     <h1>Eye-TAP</h1>
 </div>
 
